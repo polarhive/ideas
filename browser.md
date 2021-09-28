@@ -8,6 +8,8 @@
 * No telemetry out of the box (disabled by default).
 * [Libre/freely](https://polarhive.ml/blog/free-libre-software/) licensed and copylefted so that the user is under control.
 * No DRM / Widevine CDM
+* Available on GNU/Linux (libre operating systems). I may be port to proprietary platforms like like MacOS or Windows later on depending on available resources.
+* Use compatible components from the Chromium/Gecko projects like [WebRTC](https://webrtc.org/) or [media encoders](https://code.videolan.org/videolan/dav1d).
 
 ## links
 
