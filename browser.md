@@ -18,5 +18,6 @@
 - [in my bucketlist](https://polarhive.ml/bucketlist.txt)
 - [Is Brave Really brave?](https://polarhive.ml/blog/brave/#all-3-browser-ecosystems-suck)
 - [Firefox a mess by Mozilla](https://polarhive.ml/blog/firefox/)
-- [Servo](https://servo.org/) - dead, but intereseting project 
+- [Servo](https://servo.org/) - dead, but interesting project 
 - [Engineering the Servo Web Browser Engine using Rust](https://raw.githubusercontent.com/larsbergstrom/papers/master/icse16-servo-preprint.pdf)
+- [How Web Browsers Function](https://redirect.invidious.io/watch?v=z0HN-fG6oT4)
