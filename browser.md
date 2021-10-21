@@ -1,6 +1,8 @@
 # browser
 
-> Goal: To build an indie browser that isn't based on Chromium/WebKit or Gecko that works with modern HTML5 & the web.
+```
+> To build an indie browser that isn't based on Chromium/WebKit or Gecko that works with modern HTML 5 & the web.
+```
 
 * Ship [uBlock Origin](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox) by default
 * [Non-political](https://polarhive.ml/blog/firefox/#heres-what-mozilla-should-do) - Look what happened to Mozilla
@@ -12,7 +14,7 @@
 * Use compatible components from the Chromium/Gecko projects like [WebRTC](https://webrtc.org/) or [media encoders](https://code.videolan.org/videolan/dav1d).
 
 ## links
-
+- [crust](https://codeberg.org/polarhive/crust) - Trying to build a browser (WIP)
 - [in my bucketlist](https://polarhive.ml/bucketlist.txt)
 - [Is Brave Really brave?](https://polarhive.ml/blog/brave/#all-3-browser-ecosystems-suck)
 - [Firefox a mess by Mozilla](https://polarhive.ml/blog/firefox/)
