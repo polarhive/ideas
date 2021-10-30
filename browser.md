@@ -1,6 +1,6 @@
 # browser
 
-```
+``` text
 > To build an indie browser that isn't based on Chromium/WebKit or Gecko that works with modern HTML 5 & the web.
 ```
 
@@ -14,10 +14,12 @@
 * Use compatible components from the Chromium/Gecko projects like [WebRTC](https://webrtc.org/) or [media encoders](https://code.videolan.org/videolan/dav1d).
 
 ## links
-- [crust](https://codeberg.org/polarhive/crust) - Trying to build a browser (WIP)
-- [in my bucketlist](https://polarhive.ml/bucketlist.txt)
-- [Is Brave Really brave?](https://polarhive.ml/blog/brave/#all-3-browser-ecosystems-suck)
-- [Firefox a mess by Mozilla](https://polarhive.ml/blog/firefox/)
-- [Servo](https://servo.org/) - dead, but interesting project 
-- [Engineering the Servo Web Browser Engine using Rust](https://raw.githubusercontent.com/larsbergstrom/papers/master/icse16-servo-preprint.pdf)
-- [How Web Browsers Function](https://redirect.invidious.io/watch?v=z0HN-fG6oT4)
+
+* [crust](https://codeberg.org/polarhive/crust) - Trying to build a browser (WIP)
+
+* [in my bucketlist](https://polarhive.ml/bucketlist.txt)
+* [Is Brave Really brave?](https://polarhive.ml/blog/brave/#all-3-browser-ecosystems-suck)
+* [Firefox a mess by Mozilla](https://polarhive.ml/blog/firefox/)
+* [Servo](https://servo.org/) - dead, but interesting project
+* [Engineering the Servo Web Browser Engine using Rust](https://raw.githubusercontent.com/larsbergstrom/papers/master/icse16-servo-preprint.pdf)
+* [How Web Browsers Function](https://redirect.invidious.io/watch?v=z0HN-fG6oT4)
