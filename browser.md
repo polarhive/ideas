@@ -17,6 +17,7 @@
 
 * [crust](https://codeberg.org/polarhive/crust) - Trying to build a browser (WIP)
 * [in my bucketlist](https://polarhive.ml/bucketlist.txt)
+- [kristall](https://github.com/MasterQ32/kristall)
 * [Is Brave Really brave?](https://polarhive.ml/blog/brave/#all-3-browser-ecosystems-suck)
 * [Firefox a mess by Mozilla](https://polarhive.ml/blog/firefox/)
 * [Servo](https://servo.org/) - dead, but interesting project
