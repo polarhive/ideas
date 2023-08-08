@@ -7,6 +7,6 @@ Ideas to hack on and collaborate!
 - [~/calls](https://codeberg.org/polarhive/ideas/src/branch/main/calls.md) - a [matrix](https://matrix.org) bridge, to answer & redirect calls
 
 ---
-This repo is hosted on [Codeberg](https://polarhive.ml/ideas) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
+This repo is hosted on [Codeberg](https://polarhive.net/ideas) & mirrored to [GitHub](https://polarhive.net/github) for traffic.
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
