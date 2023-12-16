@@ -8,4 +8,4 @@ caller <-cellular carrier-> callee's cellphone <-bridge-> matrix <-> callee usin
 
 ## links
 
--[Why I don't do Normal Calls](https://polarhive.ml/blog/why-i-dont-do-normal-phone-calls)
+- [Why I don't do Normal Calls](https://polarhive.net/blog/why-i-dont-do-normal-phone-calls)
